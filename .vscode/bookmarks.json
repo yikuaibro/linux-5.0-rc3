@@ -1,0 +1,499 @@
+{
+	"files": [
+		{
+			"path": "net/socket.c",
+			"bookmarks": [
+				{
+					"line": 138,
+					"column": 31,
+					"label": ""
+				},
+				{
+					"line": 238,
+					"column": 37,
+					"label": ""
+				},
+				{
+					"line": 292,
+					"column": 29,
+					"label": ""
+				},
+				{
+					"line": 307,
+					"column": 45,
+					"label": ""
+				},
+				{
+					"line": 351,
+					"column": 26,
+					"label": ""
+				},
+				{
+					"line": 384,
+					"column": 20,
+					"label": "sock_alloc_file"
+				},
+				{
+					"line": 405,
+					"column": 11,
+					"label": ""
+				},
+				{
+					"line": 414,
+					"column": 16,
+					"label": ""
+				},
+				{
+					"line": 539,
+					"column": 18,
+					"label": ""
+				},
+				{
+					"line": 1197,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 1320,
+					"column": 11,
+					"label": ""
+				},
+				{
+					"line": 1462,
+					"column": 12,
+					"label": ""
+				},
+				{
+					"line": 1495,
+					"column": 11,
+					"label": ""
+				},
+				{
+					"line": 2637,
+					"column": 12,
+					"label": ""
+				},
+				{
+					"line": 2693,
+					"column": 22,
+					"label": ""
+				},
+				{
+					"line": 2717,
+					"column": 19,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "net/ipv4/inet_connection_sock.c",
+			"bookmarks": [
+				{
+					"line": 131,
+					"column": 28,
+					"label": ""
+				},
+				{
+					"line": 289,
+					"column": 16,
+					"label": ""
+				},
+				{
+					"line": 875,
+					"column": 8,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "net/ipv4/af_inet.c",
+			"bookmarks": [
+				{
+					"line": 194,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 246,
+					"column": 21,
+					"label": ""
+				},
+				{
+					"line": 433,
+					"column": 12,
+					"label": "inet_bind"
+				},
+				{
+					"line": 456,
+					"column": 11,
+					"label": "__inet_bind"
+				},
+				{
+					"line": 979,
+					"column": 32,
+					"label": ""
+				},
+				{
+					"line": 1072,
+					"column": 23,
+					"label": ""
+				},
+				{
+					"line": 1081,
+					"column": 33,
+					"label": ""
+				},
+				{
+					"line": 1119,
+					"column": 22,
+					"label": ""
+				},
+				{
+					"line": 1898,
+					"column": 22,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "net/ipv4/tcp_ipv4.c",
+			"bookmarks": [
+				{
+					"line": 200,
+					"column": 12,
+					"label": ""
+				},
+				{
+					"line": 1336,
+					"column": 35,
+					"label": ""
+				},
+				{
+					"line": 1362,
+					"column": 18,
+					"label": ""
+				},
+				{
+					"line": 1502,
+					"column": 4,
+					"label": ""
+				},
+				{
+					"line": 1758,
+					"column": 8,
+					"label": ""
+				},
+				{
+					"line": 1988,
+					"column": 28,
+					"label": ""
+				},
+				{
+					"line": 2019,
+					"column": 21,
+					"label": ""
+				},
+				{
+					"line": 2511,
+					"column": 20,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "net/ipv4/tcp_input.c",
+			"bookmarks": [
+				{
+					"line": 6003,
+					"column": 20,
+					"label": ""
+				},
+				{
+					"line": 6410,
+					"column": 12,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "net/ipv4/inet_hashtables.c",
+			"bookmarks": [
+				{
+					"line": 294,
+					"column": 30,
+					"label": ""
+				},
+				{
+					"line": 349,
+					"column": 23,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "fs/inode.c",
+			"bookmarks": [
+				{
+					"line": 204,
+					"column": 24,
+					"label": ""
+				},
+				{
+					"line": 903,
+					"column": 25,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "init/main.c",
+			"bookmarks": [
+				{
+					"line": 1050,
+					"column": 25,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "fs/namespace.c",
+			"bookmarks": [
+				{
+					"line": 943,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 958,
+					"column": 12,
+					"label": ""
+				},
+				{
+					"line": 2498,
+					"column": 18,
+					"label": ""
+				},
+				{
+					"line": 3227,
+					"column": 31,
+					"label": ""
+				},
+				{
+					"line": 3257,
+					"column": 20,
+					"label": ""
+				},
+				{
+					"line": 3299,
+					"column": 25,
+					"label": ""
+				},
+				{
+					"line": 3474,
+					"column": 18,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "fs/super.c",
+			"bookmarks": [
+				{
+					"line": 1244,
+					"column": 5,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "net/core/sock.c",
+			"bookmarks": [
+				{
+					"line": 1525,
+					"column": 21,
+					"label": ""
+				},
+				{
+					"line": 2698,
+					"column": 14,
+					"label": ""
+				},
+				{
+					"line": 3207,
+					"column": 11,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "include/linux/net.h",
+			"bookmarks": [
+				{
+					"line": 109,
+					"column": 11,
+					"label": ""
+				},
+				{
+					"line": 132,
+					"column": 12,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "include/linux/fs.h",
+			"bookmarks": [
+				{
+					"line": 602,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 900,
+					"column": 9,
+					"label": ""
+				},
+				{
+					"line": 1383,
+					"column": 11,
+					"label": ""
+				},
+				{
+					"line": 1898,
+					"column": 7,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "fs/file_table.c",
+			"bookmarks": [
+				{
+					"line": 186,
+					"column": 20,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "include/linux/dcache.h",
+			"bookmarks": [
+				{
+					"line": 87,
+					"column": 10,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "fs/dcache.c",
+			"bookmarks": [
+				{
+					"line": 1592,
+					"column": 15,
+					"label": ""
+				},
+				{
+					"line": 1735,
+					"column": 11,
+					"label": ""
+				},
+				{
+					"line": 1816,
+					"column": 25,
+					"label": ""
+				},
+				{
+					"line": 1845,
+					"column": 12,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "include/linux/fdtable.h",
+			"bookmarks": [
+				{
+					"line": 25,
+					"column": 11,
+					"label": ""
+				},
+				{
+					"line": 47,
+					"column": 16,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "fs/mount.h",
+			"bookmarks": [
+				{
+					"line": 33,
+					"column": 11,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "fs/file.c",
+			"bookmarks": [
+				{
+					"line": 585,
+					"column": 13,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "include/net/inet_hashtables.h",
+			"bookmarks": [
+				{
+					"line": 121,
+					"column": 15,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "net/ipv4/tcp.c",
+			"bookmarks": [
+				{
+					"line": 406,
+					"column": 11,
+					"label": ""
+				},
+				{
+					"line": 2537,
+					"column": 14,
+					"label": ""
+				},
+				{
+					"line": 3845,
+					"column": 16,
+					"label": "tcp_init"
+				}
+			]
+		},
+		{
+			"path": "init/do_mounts.c",
+			"bookmarks": [
+				{
+					"line": 649,
+					"column": 15,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "fs/namei.c",
+			"bookmarks": [
+				{
+					"line": 2335,
+					"column": 23,
+					"label": ""
+				}
+			]
+		}
+	]
+}
