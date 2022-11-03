@@ -1,0 +1,496 @@
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(212992274,
+212992274, '谭董新');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(327695723,
+212992444, '罗宁');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(212992514,
+212992514, '雷苑');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(327690349
+,
+213057543, '李蓉');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213057620
+,
+213057620, '刘晓玲');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213057627
+,
+213057627, '任光焰');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213057803
+,
+213057803, '袁波文');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213057849
+,
+213057849, '杨坤');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213057860
+,
+213057860, '居丽卿');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213057874
+,
+213057874, '叶黔山');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213057876
+,
+213057876, '彭攀');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213123268
+,
+213123268, '张丹丹');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213123301
+,
+213123301, '鲁迪');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213123317
+,
+213123317, '谭晓劲');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213188789
+,
+213188789, '唐环');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213254157
+,
+213254157, '高燕');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213254173
+,
+213254173, '魏丽');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213254176,
+213254176, '吴怔秋');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213385245
+,
+213385317, '张钰');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(327680876
+,
+213385334, '陈美姣');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213712932
+,
+213712932, '付相莉');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213712978
+,
+213712978, '母朝秀');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213778454
+,
+213778454, '张荣');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(213778530
+,
+213778530, '岑加祥');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214106154
+,
+214106154, '田滔');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(327702643
+,
+214106361, '康龙');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214106478
+,
+214106478, '娄强');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214106486,
+214106486, '袁晶晶');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214171703
+,
+214171703, '王志强');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214171916
+,
+214171916, '孟荣钊');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214302772
+,
+214302772, '杨学东');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214302880
+,
+214302880, '任加凤');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214368295
+,
+214368295, '令狐昌友');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214368332
+,
+214368332, '甘明忠');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(327705591
+,
+214368372, '吴玉梅');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214368380
+,
+214368380, '冯珊珊');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214433829
+,
+214433829, '丁沛');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214433852
+,
+214433852, '谢力');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214433860
+,
+214433860, '詹正东');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214499399
+,
+214499399, '吴承华');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214499453
+,
+214499453, '郑刚');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(327704296
+,
+214564883, '何波');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214564950
+,
+214564950, '母建伟');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214761531
+,
+214761531, '李国友');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214827096
+,
+214827096, '廖必林');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(214892628
+,
+214892628, '向志成');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(327685867
+,
+215023746, '柳文辉');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(215285770
+,
+215023769, '代静云');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(215023783
+,
+215023783, '罗依婷');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(215023801
+,
+215023801, '张金勇');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(215089244
+,
+215089244, '唐江农');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(215744617
+,
+215744617, '付君');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(215941184
+,
+215941184, '柯昌俊');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(216006661
+,
+216006661, '彭汉国');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(216137780
+,
+216137780, '皮成磊');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(216268853
+,
+216268853, '岑飞');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(216465580
+,
+216465580, '刘娟');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(216530968
+,
+216530968, '樊莹');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(216531065
+,
+216531065, '刘芸');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(216662093
+,
+216662093, '陈英');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(216662116
+,
+216662116, '吴兆明');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+216662126, '袁海');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+216924230, '杨虹');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+216924323, '黄光美');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+216924324, '黎福伟');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+216924357, '朱俊蓉');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+217383090, '罗维');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+217448498, '朱艳');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+217448559, '潘政旭');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+217514046, '任家华');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+218038293, '刘奎');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+218234914, '梁瑜牡');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+218234938, '吴巧霞');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+219349068, '韩龙');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+325514527, '陈琛');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+327630964, '丁波');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+327680072, '唐庆华');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+327680081, '周嵩松');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+327680099, '杨德均');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049536779, '张金钱');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049542528, '欧阳樟');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049546085, '武晋军');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049546091, '王先伟');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049546092, '管乾煜');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049589821, '周刚');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049589889, '李家荣');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049589893, '李颖敏');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049590070, '屠光平');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049590333, '赵伟');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049590388, '王明快');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049590489, '王江');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049590497, '唐琳');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049590508, '张晶');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049591256, '詹伟');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049591371, '曹正林');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049591382, '施成斌');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049593484, '王超');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049610551, '刘金洲');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049610555, '王克敏');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049612531, '郭柯');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049612540, '罗宁和');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049612541, '王玮');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049614070, '王光梅');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049614073, '何厚高');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049615425, '任万里');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049616917, '张志龙');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049634714, '马贵强');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049663432, '梁华勇');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049716618, '谢伟');
+INSERT INTO db_pcxxw.uim_mapping
+(h_userid,z_userid, z_username)
+VALUES(,
+2049739453, '董伟才');
